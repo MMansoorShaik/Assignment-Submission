@@ -1,0 +1,11 @@
+p{
+   color: greenyellow;
+    background-color: blueviolet;
+    font-size: 20px;
+}
+.one
+{
+    height: 600px;
+    width: 500px;
+    background-color: gray;
+}
